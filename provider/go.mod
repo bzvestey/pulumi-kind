@@ -3,7 +3,7 @@ module github.com/bzvestey/pulumi-kind/provider
 go 1.18
 
 replace (
-	github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/pulumi/terraform-plugin-sdk/v2 v2.0.0-20220824175045-450992f2f5b9
+	github.com/hashicorp/terraform-plugin-sdk/v2 => github.com/pulumi/terraform-plugin-sdk/v2 v2.0.0-20230710100801-03a71d0fca3d
 	k8s.io/api => k8s.io/api v0.20.2
 	k8s.io/client-go => k8s.io/client-go v0.20.2
 )
