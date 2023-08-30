@@ -23,7 +23,7 @@
             "compatibility": "tfbridge20"
         },
         "go": {
-            "importBasePath": "github.com/pulumi/pulumi-kind/sdk/go/kind",
+            "importBasePath": "github.com/bzvestey/pulumi-kind/sdk/go/kind",
             "generateResourceContainerTypes": true,
             "generateExtraInputTypes": true
         },
